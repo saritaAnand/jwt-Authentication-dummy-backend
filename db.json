@@ -1,0 +1,28 @@
+{
+    "products": [
+      {
+        "id": 0,
+        "name": "Product001",
+        "desc":"Testing",
+        "services":[{"name": "Service1","price": 1,"quantity": 1000},{"name": "Service2","price": 2,"quantity": 2000},{"name": "Service3","price": 3,"quantity": 3000}]  
+      },
+      {
+        "id": 1,
+        "name": "Product002",
+        "desc":"Testing Purpose",
+        "services":[{"name": "A","price": 1,"quantity": 1000},{"name": "B","price": 2,"quantity": 2000},{"name": "C","price": 3,"quantity": 3000}]  
+      },
+      {
+        "id": 2,
+        "name": "Product003",
+        "desc":"XYZ",
+        "services":[{"name": "X","price": 1,"quantity": 1000},{"name": "Y","price": 2,"quantity": 2000}]  
+      },
+      {
+        "id": 3,
+        "name": "Product004",
+        "desc":"KLM",
+        "services":[{"name": "K","price": 1,"quantity": 1000},{"name": "L","price": 2,"quantity": 2000}] 
+      }
+    ]
+  }
